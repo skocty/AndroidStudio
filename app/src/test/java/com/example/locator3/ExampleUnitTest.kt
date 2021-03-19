@@ -1,4 +1,4 @@
-package com.example.goolge_maps
+package com.example.locator3
 
 import org.junit.Test
 
